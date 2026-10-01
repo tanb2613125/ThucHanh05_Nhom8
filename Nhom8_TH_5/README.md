@@ -1,4 +1,4 @@
-## Gi?y ph�p (License) & B?n quy?n
+## Giấy phép (License) & Bản quyền
 
-- C�c s?n ph?m da phuong ti?n (Infographic, Video) v� m� ngu?n trong repository n�y du?c ph�t h�nh theo gi?y ph�p **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
-- B?n c� quy?n t? do chia s? v� ch?nh s?a n?i dung n�y, v?i di?u ki?n ghi r� ngu?n/t�n t�c gi?: **[Nh�m 8 TH NTCNS]**.
+- Các sản phẩm đa phương tiện (Infographic, Video) và mã nguồn trong repository này được phát hành theo giấy phép **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
+- Bạn có quyền tự do chia sẻ và chỉnh sửa nội dung này, với điều kiện ghi rõ nguồn/tên tác giả: **[Tên Sinh Viên / Tên Nhóm]**.
